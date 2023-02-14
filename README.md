@@ -11,7 +11,7 @@ Basic API Server where we write some middleware and practice deployment
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/villafanam/server-deployment-practice/actions)
-- [back-end server url](http://xyz.com) (when applicable)
+- [back-end server url](https://server-deployment-practice-no0j.onrender.com)
 
 ### Setup
 
